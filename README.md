@@ -5,7 +5,7 @@ ___
 
 **[DEMO LINK](https://barantarasnew.github.io/Air-landing/)**
 
-**[LAYOUT](https://www.figma.com/file/7qwsWggv9BAxMi2VPhBuPr/Air-(formerly-Dia))?t=hhGkLB87yFrdowKn-0)**
+**[LAYOUT](https://www.figma.com/file/rEujNe2HiIsgsXUeYMHCco/Air-(formerly-Dia))**
 ___
 ## **Technologies**
 + HTML5

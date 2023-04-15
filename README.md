@@ -1,7 +1,6 @@
 # **Air landing**
 
 ## Landing about Strategic Agency
-___
 
 **[DEMO LINK](https://barantarasnew.github.io/Air-landing/)**
 

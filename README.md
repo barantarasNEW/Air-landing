@@ -19,4 +19,4 @@ ___
 ## **Features**
   + Adaptive and responsive layout
   + Animated
-  + Slider
+  + Custom Slider

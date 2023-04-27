@@ -1,7 +1,6 @@
 # **Air landing**
 
 ## Landing about Strategic Agency
-___
 
 **[DEMO LINK](https://barantarasnew.github.io/Air-landing/)**
 
@@ -19,4 +18,8 @@ ___
 ## **Features**
   + Adaptive and responsive layout
   + Animated
+<<<<<<< HEAD
   + Custom Slider
+=======
+  + Slider
+>>>>>>> 10a6df91d8be55acb4a0a815eff2f54c9c194374

@@ -60,12 +60,19 @@
       margin-bottom: 48px;
     }
 
-    &:last-of-type {
+    &:last-child {
       margin-bottom: 56px;
 
       @include onTablet {
         margin-bottom: 80px;
       }
+    }
+  }
+
+  &__textarea {
+    &::placeholder {
+      color: #fff;
+      opacity: 1;
     }
   }
 
@@ -98,6 +105,10 @@
     color: #fff;
 
     @extend %fontOpenSans;
+
+    &:hover {
+      color: $primaryColor;
+    }
   }
 
   &__socials {
